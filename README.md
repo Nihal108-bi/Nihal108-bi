@@ -134,7 +134,7 @@
 
 ## 👀 Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NihalJaiswal&label=Profile%20Views&color=22D3EE&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=nihal108-bi&label=Profile%20Views&color=22D3EE&style=flat"/>
 </p>
 
 ---
